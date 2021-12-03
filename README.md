@@ -5,8 +5,12 @@ Sou estudante de programação focado em front-end.:computer:<br>
 Sempre busco me qualificar profissionalmente para novos desafios :sparkles: <br>
 Em meu tempo livre, curto tocar violão, aprender inglês e jogar futebol :guitar: :soccer:
 
-Hoje em dia, estudo com:<br> 
-![Javascript]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+Hoje em dia, estudo com as linguagens::<br> 
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
 
 
 
