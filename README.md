@@ -1,20 +1,19 @@
-# Seja Bem Vindo 👋
+# WELCOME! 👋
 
-Eu me chamo Othávio Sousa, 
-Sou estudante de programação focado em front-end.:computer:<br>
-Sempre busco me qualificar profissionalmente para novos desafios :sparkles: <br>
-Em meu tempo livre, curto tocar violão, aprender inglês e jogar futebol :guitar: :soccer:
+My name is Othávio Sousa, I'm a programming student focused on front-end.💻
+I always seek to qualify myself professionally for new challenges ✨
+In my spare time, I enjoy playing guitar, learning English and playing football 🎸 ⚽
 
-Hoje em dia, estudo com as linguagens:<br> 
+Nowadays, I study with the languages: <br> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-Programo com os editores:
+I Work using:
 
 <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src= "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 
 
-Contato:<br>
+Contact:<br>
 <a href="https://www.linkedin.com/in/othavio-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
 
 
