@@ -1,6 +1,6 @@
 # WELCOME! 👋
 
-My name is Othávio Sousa, I'm a programming student focused on front-end.💻
+My name is Othávio Sousa, I'm a Full Stack Jr.💻
 I always seek to qualify myself professionally for new challenges ✨
 In my spare time, I enjoy playing guitar, learning English and playing football 🎸 ⚽
 
