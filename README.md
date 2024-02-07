@@ -29,7 +29,7 @@ I Work using:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-Contact:
+Contact:<br>
 <a href="https://www.linkedin.com/in/othavio-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
 
 
